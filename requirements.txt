@@ -13,7 +13,6 @@ typing_extensions==4.4.0
 uvicorn==0.20.0
 watchfiles==0.18.1
 websockets==10.4
---find-links https://download.pytorch.org/whl/cu118
 --extra-index-url https://download.pytorch.org/whl/cu116
 torch==1.13.0+cu116
 torchvision==0.14.0+cu116
