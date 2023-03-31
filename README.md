@@ -1,5 +1,5 @@
 ---
-title: FastAPI
+title: Animus-AI-API
 description: A FastAPI server
 tags:
   - fastapi
@@ -10,7 +10,8 @@ tags:
 
 This example starts up a [FastAPI](https://fastapi.tiangolo.com/) server.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/-NvLj4?referralCode=milo)
+[![Deployed on Railway](https://railway.app/button.svg)](https://railway.app/new/template/-NvLj4?referralCode=milo)
+
 ## ✨ Features
 
 - FastAPI
